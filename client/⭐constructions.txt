@@ -1,0 +1,11 @@
+npm i axios
+src code
+https://blog.chatengine.io/fullstack-chat/nodejs-reactjs
+
+Src  video
+https://www.youtube.com/watch?v=Fzv-rgwcFKk&ab_channel=AdamLaMorre
+
+we used the following npm pakage ti itegrate chatengine ui
+https://www.npmjs.com/package/react-chat-engine-advanced
+
+npm i react-chat-engine-advanced

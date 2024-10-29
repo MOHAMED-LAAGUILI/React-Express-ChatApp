@@ -1,0 +1,31 @@
+this app used a chatengine.io to integrate chat tools 
+login or sign up to creat ur api key there chatengine.io
+src video https://www.youtube.com/watch?v=Fzv-rgwcFKk&ab_channel=AdamLaMorre
+
+npm -y init
+
+install exp & cors && axios in app dep
+npm i express cors axios
+
+install the nodemon in dev dep
+npm i --save-dev nodemon
+
+replace the following in json pkg
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+
+with 
+
+"scripts": {
+    "server":"nodemon server.js"
+  },
+
+  startup server code
+  https://blog.chatengine.io/fullstack-chat/nodejs-reactjs
+
+
+  npm run server
+
+  
